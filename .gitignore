@@ -1,0 +1,12 @@
+output_data/
+relazione/big_data_report.aux
+relazione/big_data_report.fdb_latexmk
+relazione/big_data_report.fls
+relazione/big_data_report.log
+relazione/big_data_report.out
+relazione/big_data_report.synctex.gz
+relazione/big_data_report.tex
+en-sentiment.pt
+final_scores.csv
+merged_data.txt
+review.txt
