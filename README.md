@@ -15,7 +15,7 @@ In this project, we focus on conducting Sentiment Analysis on hotel reviews sour
      - **Other Measures:** That might involve the number of reviews and the sentiment score from the classifier.
   
 3. **Data Filtering for Significance:**
-   - To enhance computational efficiency and ensure meaningful results, we filter the dataset to include only hotels with more than 3,000 reviews. This threshold helps in avoiding skewed or insignificant data from hotels with fewer reviews.
+   - To enhance computational efficiency and ensure meaningful results, we filter the dataset to include only hotels with more than 1,000 reviews. This threshold helps in avoiding skewed or insignificant data from hotels with fewer reviews.
 
 4. **Ablative studies**:
  - We also implemented our own sentiment analysis model using PySpark ML to test this powerful library.
